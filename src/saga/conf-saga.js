@@ -8,7 +8,7 @@ function* fetchProductsSaga() {
       {
         id: 1,
         name: "Leche Alkeria",
-        src_img: "/public/img/leche-alkeria.png",
+        src_img: "/img/leche-alkeria.png",
         price: 1.5,
         category: "milk",
         description:
@@ -17,7 +17,7 @@ function* fetchProductsSaga() {
       {
         id: 2,
         name: "De Todido",
-        src_img: "/public/img/detodito.png",
+        src_img: "/img/detodito.png",
         price: 2.5,
         category: "French fries",
         description:
@@ -26,7 +26,7 @@ function* fetchProductsSaga() {
       {
         id: 3,
         name: "Milo",
-        src_img: "/public/img/milo.png",
+        src_img: "/img/milo.png",
         price: 2.52,
         category: "Milo",
         description:
@@ -35,7 +35,7 @@ function* fetchProductsSaga() {
       {
         id: 4,
         name: "Zucaritas",
-        src_img: "/public/img/zucaritas.png",
+        src_img: "/img/zucaritas.png",
         price: 2.99,
         category: "Cereal",
         description:
@@ -44,7 +44,7 @@ function* fetchProductsSaga() {
       {
         id: 5,
         name: "Leche Alkeria",
-        src_img: "/public/img/leche-alkeria.png",
+        src_img: "/img/leche-alkeria.png",
         price: 1.5,
         category: "milk",
         description:
@@ -53,7 +53,7 @@ function* fetchProductsSaga() {
       {
         id: 6,
         name: "De Todido",
-        src_img: "/public/img/detodito.png",
+        src_img: "/img/detodito.png",
         price: 2.5,
         category: "French fries",
         description:
@@ -62,7 +62,7 @@ function* fetchProductsSaga() {
       {
         id: 7,
         name: "Milo",
-        src_img: "/public/img/milo.png",
+        src_img: "/img/milo.png",
         price: 2.52,
         category: "Milo",
         description:
@@ -71,7 +71,7 @@ function* fetchProductsSaga() {
       {
         id: 8,
         name: "Milo",
-        src_img: "/public/img/milo.png",
+        src_img: "/img/milo.png",
         price: 2.52,
         category: "Milo",
         description:
@@ -80,7 +80,7 @@ function* fetchProductsSaga() {
       {
         id: 9,
         name: "Zucaritas",
-        src_img: "/public/img/zucaritas.png",
+        src_img: "/img/zucaritas.png",
         price: 2.99,
         category: "Cereal",
         description:
@@ -89,7 +89,7 @@ function* fetchProductsSaga() {
       {
         id: 10,
         name: "De Todido",
-        src_img: "/public/img/detodito.png",
+        src_img: "/img/detodito.png",
         price: 2.5,
         category: "French fries",
         description:
@@ -98,7 +98,7 @@ function* fetchProductsSaga() {
       {
         id: 11,
         name: "Leche Alkeria",
-        src_img: "/public/img/leche-alkeria.png",
+        src_img: "/img/leche-alkeria.png",
         price: 1.5,
         category: "milk",
         description:
@@ -107,7 +107,7 @@ function* fetchProductsSaga() {
       {
         id: 12,
         name: "Leche Alkeria",
-        src_img: "/public/img/leche-alkeria.png",
+        src_img: "/img/leche-alkeria.png",
         price: 1.5,
         category: "milk",
         description:

@@ -20,7 +20,7 @@ const ProductsCarts = () => {
 
       return uniqueCode;
     };
-    const pub_key = "";
+    const pub_key = "pub_test_X0zDA9xoKdePzhd8a0x9HAez7HgGO2fH";
    
     useEffect(() => {
       
