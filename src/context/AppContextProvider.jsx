@@ -1,4 +1,4 @@
-import { createContext } from "react";
+import React, { createContext } from "react";
 // start declare global variable methods
 import useProducStore from "../hooks/useProducStore";
 import useCart from "../hooks/useCart";

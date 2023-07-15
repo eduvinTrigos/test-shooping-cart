@@ -1,4 +1,4 @@
-import { useContext } from "react";
+import React, { useContext } from "react";
 import AppContext from "../context/AppContextProvider";
 import BagedCountCartProduct from "./BagedCountCartProduct";
 const ProductDetail = () =>{ 
@@ -7,7 +7,7 @@ const ProductDetail = () =>{
     const dataProductCart = cart.find((item) => item.id === productSelect.id);
 
     return (
-      <div className="pt-5  border-t-[1px] pb-4 border-b-[1px] border-solid border-purple-700">
+      <div className="pt-5  border-t-[1px] pb-4 border-b-[1px] border-solid border-purple-200">
         <div className="w-100  justify-center relative inline-flex items-center">
           {dataProductCart !== undefined && (
             <BagedCountCartProduct initialCount={dataProductCart.quanty} />

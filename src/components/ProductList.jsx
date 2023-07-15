@@ -1,5 +1,5 @@
 
-import { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import AppContext from "../context/AppContextProvider";
 import BagedCountCartProduct from "./BagedCountCartProduct"
 
@@ -35,7 +35,7 @@ const ProductList = () => {
     }
 
     return (
-         <div className="columns-3 pt-5  border-t-[1px] border-solid border-purple-700">
+         <div className="columns-3 pt-5  border-t-[1px] border-solid border-purple-200">
             {productsData ? (
                 productsData.map((data, key) => {
                 const dataProductCart = cart.find(
